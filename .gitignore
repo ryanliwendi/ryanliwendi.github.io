@@ -22,3 +22,4 @@ __pycache__/
 
 # original photo (may contain location metadata); the site uses assets/img/prof_pic.jpg
 assets/img/*.heic
+assets/img/prof_pic_original.jpg
