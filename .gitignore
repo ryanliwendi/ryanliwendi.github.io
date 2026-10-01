@@ -19,3 +19,6 @@ vendor
 # Python bytecode from bin/ helper scripts
 __pycache__/
 *.pyc
+
+# original photo (may contain location metadata); the site uses assets/img/prof_pic.jpg
+assets/img/*.heic
