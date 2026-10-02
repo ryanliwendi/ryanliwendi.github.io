@@ -27,8 +27,3 @@ latest_posts:
 Hi! I'm Ryan Li, an undergraduate at the University of Southern California majoring in Applied Mathematics. I'm broadly interested in **robot learning**.
 
 I currently work in the [Lira Lab](https://liralab.usc.edu/). I'm really grateful to be advised by [Prof. Erdem Bıyık](https://ebiyik.github.io/) and mentored by [Yigit Korkmaz](https://ygtkorkmaz.github.io/).
-
-### Education
-
-**University of Southern California**, Los Angeles, CA <br>
-B.S. in Applied Mathematics · 2024 – 2028 (expected)
